@@ -1,0 +1,30 @@
+@media(max-width: 450px){
+    .content h1{
+        font-size: 20px;
+    }
+    .content p {
+        font-size: 10px;
+    }
+    .hora-lancamento div {
+        flex-basis: 50px;
+    }
+    .hora-lancamento div p {
+        font-size: 25px;
+        margin-bottom: -5px;
+        margin-top: 5px;
+    }
+    .content button {
+        padding: 8px 8px;
+        margin-top: 15px;
+        font-size: 10px;
+    }
+    .content button img {
+        width: 10px;
+    }
+    .foguete {
+        width: 100px;
+    }
+    .legenda {
+        font-size: 10px;
+    }
+}
